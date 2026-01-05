@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AutoCrawler AI",
+  "description": "A client-side web crawler that extracts text content from URLs, visualizes real-time progress, and exports clean text files. Powered by Gemini for intelligent content summarizing.",
+  "requestFramePermissions": []
+}
